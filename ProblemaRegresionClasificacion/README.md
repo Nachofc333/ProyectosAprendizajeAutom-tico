@@ -18,9 +18,6 @@ pip install scikit-learn
 ```
 
 
-## Usage
-
-
 ## Authors
 - Santiago Kiril Cenkov Stoyanov ([@SanKiril](https://github.com/SanKiril))
 - Ignacio Fernández Cañedo ([@Nachofc333](https://github.com/Nachofc333))
