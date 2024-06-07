@@ -2,6 +2,8 @@
 An undergraduate academic project delving into the fundamentals of machine learning from a practical viewpoint.
 
 ## Installation
+
+## Installation
 **1. Install `numpy`[^1]:**
 ```bash
 pip install numpy
@@ -15,6 +17,11 @@ pip install pandas
 **3. Install `scikit-learn`[^3]:**
 ```bash
 pip install scikit-learn
+```
+
+**4. Install `scikit-learn-extra`[^3]:**
+```bash
+pip install scikit-learn-extra
 ```
 
 
