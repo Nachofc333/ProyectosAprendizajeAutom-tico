@@ -17,10 +17,6 @@ pip install pandas
 pip install scikit-learn
 ```
 
-**4. Clone the repository:**
-```bash
-git clone https://github.com/SanKiril/GRUPO07_Practica1
-```
 
 ## Usage
 
